@@ -1,4 +1,5 @@
 # Restaurant Menu API
+For this project I used Node.js v19.4.0 and GraphQL.
 
 ## Local Setup
 
